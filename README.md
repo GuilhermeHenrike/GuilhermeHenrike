@@ -18,4 +18,4 @@ Curso o último período de Análise e desenvolvimento de sistemas.
 
 📫 **Como me encontrar:**
 - [LinkedIn](https://www.linkedin.com/in/guilherme-freitas-a30b58369?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [E-mail](mailto:guilhermefreitaspessoal18@gmail.com)
+- [E-mail](mailto:guilhermehenrike0412@gmail.com)
