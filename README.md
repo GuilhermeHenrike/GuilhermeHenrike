@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Guilherme! 👋
 
-<!--
-**GuilhermeHenrike/GuilhermeHenrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de computação e entusiasta de desenvolvimento de software. 
+Focado no desenvolvimento de soluções fullstack com Java e React.
+Valorizo a autonomia no aprendizado e a busca constante por código limpo e eficiente.
+Curso o último período de Análise e desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias que utilizo:
+- **Backend:** Java, Spring Boot
+- **Frontend** React
+- **Banco de Dados:** SQL (Relacional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em Desenvolvimento
+- [x] **Sistema de Autenticação Fullstack:** Implementando Spring Boot (Security + JWT) com interface em React.
+- [x] **Dashboard Gerencial:** Consumo de APIs REST com React.
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHenrike&show_icons=true&theme=radical)
+
+📫 **Como me encontrar:**
+- [LinkedIn](https://www.linkedin.com/in/guilherme-freitas)
+- [E-mail](mailto:guilhermefreitaspessoal18@gmail.com)
