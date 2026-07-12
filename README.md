@@ -17,5 +17,5 @@ Curso o último período de Análise e desenvolvimento de sistemas.
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHenrike&show_icons=true&theme=radical)
 
 📫 **Como me encontrar:**
-- [LinkedIn](https://www.linkedin.com/in/guilherme-freitas)
+- [LinkedIn](https://www.linkedin.com/in/guilherme-freitas-a30b58369?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [E-mail](mailto:guilhermefreitaspessoal18@gmail.com)
