@@ -14,8 +14,6 @@ Curso o último período de Análise e desenvolvimento de sistemas.
 - [x] **Sistema de Autenticação Fullstack:** Implementando Spring Boot (Security + JWT) com interface em React.
 - [x] **Dashboard Gerencial:** Consumo de APIs REST com React.
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHenrike&show_icons=true&theme=radical&count_private=true)
-
 📫 **Como me encontrar:**
 - [LinkedIn](https://www.linkedin.com/in/guilherme-freitas-a30b58369?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [E-mail](mailto:guilhermehenrike0412@gmail.com)
